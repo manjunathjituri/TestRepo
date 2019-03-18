@@ -1,1 +1,2 @@
-export ORACLE_SID=manju
+export ORACLE_SID=king
+export ORACLE_BASE=/u01/app/oracle
